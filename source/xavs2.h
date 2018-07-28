@@ -38,6 +38,7 @@
 #define XAVS2_XAVS2_H
 
 #include <stdint.h>
+#include "xavs2_config.h"
 
 #ifdef __cplusplus
 extern "C" {    // only need to export C interface if used by C++ source code
